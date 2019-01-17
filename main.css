@@ -76,7 +76,6 @@ hr
 .product_count
 {
   padding: 5px;
-  padding-left: 100px;
   padding-right: 10px;
   border-right: 1px solid  rgb(65, 65, 65);
 }
@@ -88,4 +87,13 @@ li
 .selected
 {
   color: rgb(74, 145, 192);
+}
+.price
+{
+  display: flex;
+  align-items: center;
+}
+.product_price
+{
+  padding-left: 10px;
 }
